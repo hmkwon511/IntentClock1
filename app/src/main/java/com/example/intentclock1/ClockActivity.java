@@ -17,3 +17,4 @@ public class ClockActivity extends AppCompatActivity {
         finish();
     }
 }
+//commit2 - 기능2구현
